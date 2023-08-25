@@ -5,7 +5,7 @@ Understand emotions behind a sentence via supervised ML
 
 This project focuses on sentiment analysis, a natural language processing task that involves determining the sentiment or emotional tone of a given text. The goal is to classify text data into positive or negative sentiment categories.
 
-This project can easily adapted to various significant applications of Sentiment Analysis, such as categorizing: discriminatory/offensive social media posts or tweets, favorable/unfavorable product reviews, or even detecting spam emails.
+This project can be easily adapted to various significant applications of Sentiment Analysis, such as categorising discriminatory/offensive social media posts or tweets, favorable/unfavorable product reviews, or even detecting spam emails.
 
 ## Overview
 
